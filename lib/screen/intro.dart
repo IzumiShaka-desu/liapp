@@ -32,7 +32,7 @@ class Intro extends StatelessWidget {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Text(' Get Started ',style: Theme.of(context).textTheme.bodyText1.copyWith(color:ColorPalette.mainWhite),),
+                  Text(' Get Started ',style: Theme.of(context).textTheme.bodyText1?.copyWith(color:ColorPalette.mainWhite),),
                 ],
               ),
               onPressed: () => Navigator.of(context).pushReplacement(
