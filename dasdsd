@@ -1,0 +1,29 @@
+[33mcommit a3b9c89270984258566a6309afd505da08abb976[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[36mgpg: Signature made 01/09/2021 10:06:59 SE Asia Standard Time[m
+[36mgpg:                using RSA key 3FB471C45037A3593BA415595FC580B5C627677F[m
+[36mgpg: Good signature from "IzumiShaka-desu (my github gpg key) <shakaaji29@gmail.com>" [ultimate][m
+Author: IzumiShaka-desu <shakaaji29@gmail.com>
+Date:   Wed Sep 1 10:00:28 2021 +0700
+
+    add txt
+
+[33mcommit 2d26e83be04bc0e0f0be98443832007c57a60f44[m
+[36mgpg: Signature made 01/09/2021 09:58:23 SE Asia Standard Time[m
+[36mgpg:                using RSA key 3FB471C45037A3593BA415595FC580B5C627677F[m
+[36mgpg: Good signature from "IzumiShaka-desu (my github gpg key) <shakaaji29@gmail.com>" [ultimate][m
+Author: IzumiShaka-desu <shakaaji29@gmail.com>
+Date:   Wed Sep 1 09:58:21 2021 +0700
+
+    update readme
+
+[33mcommit 9abf83cd751d825ec260b99712dca77dc50c27c9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: IzumiShaka-desu <shakaaji29@gmail.com>
+Date:   Mon Aug 23 09:26:03 2021 +0700
+
+    refactor
+
+[33mcommit 7a16fc4df4f1fbf6748992f6a58083510e5c8a0e[m
+Author: IzumiShaka-desu <shakaaji29@gmail.com>
+Date:   Tue Jul 27 11:47:34 2021 +0700
+
+    first commit
